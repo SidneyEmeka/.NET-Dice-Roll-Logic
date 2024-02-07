@@ -26,13 +26,15 @@ if ((roll1 == roll2) && (roll2 == roll3) && (roll3 == roll1))
     Console.WriteLine("You rolled triplets! +6 bonus to total");
     total += 6;
 }
+
+
+//Third Condition
 if (total >= 15)
 {
     Console.WriteLine("You win!");
 }
 
-//Third Condition
-if (total < 15)
+else
 {
     Console.WriteLine("Sorry, you lose.");
 }
