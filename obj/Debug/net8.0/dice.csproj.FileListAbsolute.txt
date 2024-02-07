@@ -12,3 +12,4 @@ C:\Users\USER\Documents\webworld\git\.NET-Dice-Roll-Logic\.NET-Dice-Roll-Logic\d
 C:\Users\USER\Documents\webworld\git\.NET-Dice-Roll-Logic\.NET-Dice-Roll-Logic\dice\obj\Debug\net8.0\dice.pdb
 C:\Users\USER\Documents\webworld\git\.NET-Dice-Roll-Logic\.NET-Dice-Roll-Logic\dice\obj\Debug\net8.0\dice.genruntimeconfig.cache
 C:\Users\USER\Documents\webworld\git\.NET-Dice-Roll-Logic\.NET-Dice-Roll-Logic\dice\obj\Debug\net8.0\ref\dice.dll
+C:\Users\USER\Documents\webworld\git\.NET-Dice-Roll-Logic\.NET-Dice-Roll-Logic\dice\obj\Debug\net8.0\dice.sourcelink.json
