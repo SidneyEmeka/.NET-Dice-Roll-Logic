@@ -38,21 +38,14 @@ else {
 //SCORE REWARD CONDITIONS
 
 if (total >= 16) 
-{ 
     Console.WriteLine("YOU WON A CAR !!!");
-}
+
     else if (total >= 10) 
-    {
         Console.WriteLine("YOU WON A LAPTOP !!!");
-    }
 
     else if (total == 7)
-    {
         Console.WriteLine("YOU WON A TRIP TO TURKEY");
-    }
 
     else 
-    {
         Console.WriteLine("YOU WON A BOTTLE OF WINE");
-    }
 
