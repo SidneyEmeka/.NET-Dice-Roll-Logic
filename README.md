@@ -14,5 +14,5 @@ Expressed
 -Stateless and Stateful Classes
 -Conditional If/Else Statement
 
-## C#/.Net-8
 Check program.cs file for the logic
+## Random.Next() Method
